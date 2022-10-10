@@ -1,4 +1,4 @@
-[buildstatus](GET https://dev.azure.com/{organization}/{project}/_apis/build/repos/{repoType}/badge?api-version=6.0-preview.2)
+[![buildstatus](GET https://dev.azure.com/{organization}/{project}/_apis/build/repos/{repoType}/badge?api-version=6.0-preview.2)]
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
